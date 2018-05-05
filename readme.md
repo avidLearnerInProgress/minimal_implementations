@@ -1,1 +1,6 @@
-Implementation of Pagerank Algorithm.!
+Implementation of:  
+  Pagerank algorithm.
+  String guesser using genetic algorithm.
+  TSP using genetic algorithm.
+  
+  
